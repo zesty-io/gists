@@ -16,7 +16,7 @@
 - Use the provided complete works of Shakespeare as the local web server data source
 - Include a document of your results for the following fragments: th, fr, pi, sh, wu, ar, il, ne, se, pl
 - Include a document on to start the web service and an example cURL request
-- Provide a zipfile of your solution with documentation
+- Provide a access to your solution with documentation via a url
 
 ### Additional Notes
 - This challenge isn't timed but please don't spend more than a few hours on it as we don't want to take up too much of your time.
